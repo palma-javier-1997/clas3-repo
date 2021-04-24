@@ -6,3 +6,7 @@
 ###FinTech Repository with H3
 
 welcome to my repository
+
+*this text will be in italic*
+
+**this text will be bold**
