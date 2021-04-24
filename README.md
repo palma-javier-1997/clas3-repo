@@ -1,9 +1,9 @@
-# clas3-repo
-#FinTech Repository with H1
 
-##FinTech Repository with H2
+# FinTech Repository with H1
 
-###FinTech Repository with H3
+## FinTech Repository with H2
+
+### FinTech Repository with H3
 
 welcome to my repository for the `NU FinTech Bootcamp`!
 
@@ -17,3 +17,7 @@ welcome to my repository for the `NU FinTech Bootcamp`!
 ```Python
 print("Welcome to Fintech!")
 ```
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/javier-palma-32a8a91a9)
